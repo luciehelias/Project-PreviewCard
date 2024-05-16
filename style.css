@@ -104,12 +104,6 @@ img {
   padding-top: 40px;
 }
 
-/* @media (max-width: 570px) {
-  .preview-card {
-    width: 327px;
-    height: 501px;
-  }
-} */
 @media (max-width: 450px) {
   .preview-card {
     width: 80%;
