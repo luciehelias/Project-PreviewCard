@@ -107,4 +107,10 @@ img {
     width: 327px;
     height: 501px;
   }
+
+  .illustration {
+    border-radius: 15%;
+    overflow: hidden;
+    height: 190px;
+  }
 }
